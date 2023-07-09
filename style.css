@@ -18,7 +18,13 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
-
+.snn{
+  width: 200px;
+  height: 40px;
+  position: absolute;
+  left: 10px;
+  top: 19px;
+}
 .search{
     display: flex;
     align-items: center;
